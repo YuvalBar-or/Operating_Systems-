@@ -1,0 +1,1 @@
+void code_or_decode(int option, char* src, char* dst);
